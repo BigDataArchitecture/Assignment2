@@ -32,6 +32,7 @@ Save it as the folder structure mentioned in CATLOG.csv or mentioned below:
   
 Catlog.csv
 Just keep records/events of those filenames which you are saving it in the above folders, delete rest all of them!
+
 P.S we do this because the code in the py file traverse through the catlog.csv and fetch the filenames from it and if it does not find it you will get an path error
 
 Make a empty folder output which will be used to output the testing sample
@@ -57,7 +58,6 @@ Overall Project Folder should look something like this:
 
 Once you the setup:
 Execute following code:
-cd src/data
 
 ### Generate synrad training & testing datasets
 python make_synrad_dataset.py --sevir_data ../../data/sevir --sevir_catalog ../../data/CATALOG.csv --output_location ../../data/interim/
