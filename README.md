@@ -62,6 +62,11 @@ Execute following code:
 ### Generate synrad training & testing datasets
 python make_synrad_dataset.py --sevir_data ../../data/sevir --sevir_catalog ../../data/CATALOG.csv --output_location ../../data/interim/
 
-More Deatils 👇
+### More Details 👇
 Google Codelab: https://codelabs-preview.appspot.com/?file_id=1i0cKXjIWksTkFbtSPx2mH4Zioa1o-oV1J3JXw49rNoE#3
+
+### Part 2: Nowcasting Archiecture 👇
+Google Codelab: https://codelabs-preview.appspot.com/?file_id=1vDU4PUry6cB-0SMbEo7oPp-YSTL1wquu2rJqpBVut9o#0
+
+
 
