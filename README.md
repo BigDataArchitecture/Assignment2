@@ -65,7 +65,7 @@ Overall Project Folder should look something like this:
       ├── utils.py   
 
 The following code runs creates the synrad dataset: 
-# Generate synrad training & testing datasets
+**Generate synrad training & testing datasets**
 python make_synrad_dataset.py --sevir_data ../../data/sevir --sevir_catalog ../../data/CATALOG.csv --output_location ../../data/interim/
 
 **Note**: In the make_synrad_dataset.py file the value of the default in n_chunks has to be changed from 20 to 10.
