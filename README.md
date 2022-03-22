@@ -1,4 +1,4 @@
-Assignment_2
+Learn about Synrad and Nowcast!
 ==============================
 This assignment consists of two parts:
 
