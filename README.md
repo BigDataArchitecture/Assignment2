@@ -1,5 +1,8 @@
 Learn about Synrad and Nowcast!
 ==============================
+
+Live Github Page🚀: https://bigdataarchitecture.github.io/Assignment2/
+
 This assignment consists of two parts:
 
 PART 1:
