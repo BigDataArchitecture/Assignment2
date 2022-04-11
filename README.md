@@ -119,4 +119,4 @@ Google Codelab: https://codelabs-preview.appspot.com/?file_id=1vDU4PUry6cB-0SMbE
 
 WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 
-Contribution: Parth: 60% Sree: 20% Ankana: 20%
+Contribution: Parth: 34% Sree: 33% Ankana: 33%
